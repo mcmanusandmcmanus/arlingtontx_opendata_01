@@ -1,0 +1,8 @@
+case_id,address,offense_date,offense_type
+1,100 Main St,2025-06-01,Unsafe Structure
+2,100 Main St,2025-07-15,Trash/Debris
+3,200 Oak Ave,2025-07-20,Fire Code
+4,300 Elm Rd,2025-07-25,Noise
+5,300 Elm Rd,2025-08-05,Housing
+6,400 Pine St,2025-08-09,Code
+7,200 Oak Ave,2025-08-12,Fire Code

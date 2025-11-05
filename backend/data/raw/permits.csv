@@ -1,0 +1,6 @@
+permit_id,property_id,address,permit_type,status,valuation,issue_date
+P-001,TAD0001,100 Main St,Remodel,Issued,85000,2025-04-01
+P-002,TAD0002,200 Oak Ave,Multi-family,Pending,250000,2025-05-10
+P-003,TAD0003,300 Elm Rd,Fence,Issued,5000,2025-05-18
+P-004,TAD0004,400 Pine St,Demolition,Pending,120000,2025-07-30
+P-005,TAD0005,500 Maple Ln,New Build,Issued,450000,2025-06-12

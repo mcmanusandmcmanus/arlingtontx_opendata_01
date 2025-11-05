@@ -1,0 +1,6 @@
+complaint_id,address,complaint_date,complaint_type,status
+1001,100 Main St,2025-05-20,Trash,Open
+1002,200 Oak Ave,2025-06-18,Overgrown Yard,Closed
+1003,200 Oak Ave,2025-07-02,Noise,Open
+1004,300 Elm Rd,2025-07-28,Housing,Open
+1005,400 Pine St,2025-08-01,Trash,Open
