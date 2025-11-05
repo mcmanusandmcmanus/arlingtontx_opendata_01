@@ -2,6 +2,7 @@ import { KpiStrip } from "@/components/KpiStrip";
 import { PermitWatchlist } from "@/components/PermitWatchlist";
 import { RiskTable } from "@/components/RiskTable";
 import { TrendCharts } from "@/components/TrendCharts";
+import { TransparencySection } from "@/components/TransparencySection";
 import {
   fetchKPIs,
   fetchOffenseTrends,
@@ -171,8 +172,9 @@ export default async function HomePage() {
         <TrendCharts data={trends} />
 
         <PermitWatchlist permits={permits} />
+
+        <TransparencySection />
       </main>
     </div>
   );
 }
-
