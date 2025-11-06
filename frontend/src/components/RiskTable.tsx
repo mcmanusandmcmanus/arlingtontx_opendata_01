@@ -105,7 +105,7 @@ export function RiskTable({ parcels }: RiskTableProps) {
                   <div className="flex flex-col gap-1 text-slate-200">
                     <span className="font-medium">{parcel.address}</span>
                     <span className="text-xs text-slate-400">
-                      {parcel.taxpin} · {parcel.land_use ?? "Land use n/a"}
+                      {parcel.taxpin} / {parcel.land_use ?? "Land use n/a"}
                     </span>
                   </div>
                 </td>

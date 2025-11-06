@@ -54,7 +54,7 @@ export function KpiStrip({ kpis }: KpiStripProps) {
           </p>
         </div>
         <span className="rounded-full bg-slate-800/80 px-4 py-1 text-xs uppercase tracking-wide text-slate-300">
-          MVP · 80/20 focus
+          MVP | 80/20 focus
         </span>
       </div>
       <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
